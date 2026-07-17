@@ -23,3 +23,26 @@ frontend/dist/
 # OS files
 .DS_Store
 Thumbs.db
+
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# React / Node
+frontend/node_modules/
+frontend/dist/
+
+# Vite cache
+frontend/.vite/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
